@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(530): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(531): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(542): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(543): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(554): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(555): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(566): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(567): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(586): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(623): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(636): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(649): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(662): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(675): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(687): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(699): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(711): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(820): warning C4715: znakilinet: значение возвращается не при всех путях выполнения
+c:\users\elvin\source\repos\withfuncs\withfuncs\source.cpp(759): warning C4715: znaklilnet: значение возвращается не при всех путях выполнения
+  withfuncs.vcxproj -> C:\Users\Elvin\source\repos\withfuncs\Debug\withfuncs.exe
